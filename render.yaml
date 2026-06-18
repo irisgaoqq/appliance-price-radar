@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: appliance-price-radar
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: JBHIFI_ADAPTER_CSV
+        value: appliances/feeds/adapter-jbhifi-sample.csv
+      - key: SERVER_AUTO_REFRESH
+        value: "false"
+      - key: AMAZON_PAAPI_ACCESS_KEY
+        sync: false
+      - key: AMAZON_PAAPI_SECRET_KEY
+        sync: false
+      - key: AMAZON_PAAPI_PARTNER_TAG
+        sync: false

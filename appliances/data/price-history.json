@@ -1,0 +1,3631 @@
+[
+  {
+    "capturedAt": "2026-06-17T05:24:40.099Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:24:40.468Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:29:38.838Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:32:55.116Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:43:16.070Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:43:52.369Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:47:42.954Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:49:14.544Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:51:24.316Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:52:04.935Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1215,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:54:57.812Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T05:58:33.888Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:03:01.851Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 432,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:04:53.991Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 433,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:10:12.761Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:13:15.963Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:13:42.946Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:14:50.889Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:14:51.579Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:33:02.055Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:33:25.171Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:39:57.713Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:40:24.567Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:43:04.339Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:43:15.571Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:47:23.521Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:47:37.303Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:51:24.549Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "capturedAt": "2026-06-17T06:59:02.761Z",
+    "products": [
+      {
+        "id": "dyson-v15-detect",
+        "model": "Dyson V15 Detect cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 1175,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 1249,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 1199,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 1188.5,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "breville-barista-express",
+        "model": "Breville Barista Express espresso machine",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 649,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 699,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 645,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 679,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "ninja-dual-zone-air-fryer",
+        "model": "Ninja Foodi Dual Zone air fryer",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 299,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 329,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 288,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 279,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-55-oled",
+        "model": "LG C4 55 inch OLED TV",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": 2195,
+            "stock": "Check store"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": 2295,
+            "stock": "Online / store"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 2188,
+            "stock": "In stock"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": 2249,
+            "stock": "Marketplace varies"
+          }
+        ]
+      },
+      {
+        "id": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+        "model": "Samsung Bespoke Jet AI cordless vacuum",
+        "offers": [
+          {
+            "retailer": "JB Hi-Fi",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Harvey Norman",
+            "price": null,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "The Good Guys",
+            "price": 875,
+            "stock": "Not captured yet"
+          },
+          {
+            "retailer": "Amazon AU",
+            "price": null,
+            "stock": "Not captured yet"
+          }
+        ]
+      }
+    ]
+  }
+]

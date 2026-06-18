@@ -1,0 +1,13 @@
+{
+  "name": "appliance-price-radar",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node appliances/server.mjs",
+    "check": "node --check appliances/server.mjs && node --check appliances/site.js && node --check appliances/scripts/update-prices.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

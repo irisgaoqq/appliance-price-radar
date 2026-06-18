@@ -1,0 +1,6 @@
+{
+  "autoRefreshSeconds": 900,
+  "serverAutoRefresh": false,
+  "priceFreshnessWarningMinutes": 60,
+  "defaultPostcode": "4000"
+}

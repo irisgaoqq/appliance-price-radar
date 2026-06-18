@@ -1,0 +1,24 @@
+[
+  {
+    "productId": "dyson-v15-detect",
+    "retailer": "JB Hi-Fi",
+    "sku": "JB-DYSON-V15",
+    "urlContains": "dyson-v15-detect",
+    "aliases": [
+      "Dyson V15 Detect cordless vacuum",
+      "Dyson V15 Detect"
+    ],
+    "notes": "Exact model wording for Dyson V15 Detect family; confirm included cleaner head before purchase."
+  },
+  {
+    "productId": "dyson-v15-detect",
+    "retailer": "Amazon AU",
+    "sku": "AMZ-DYSON-V15",
+    "urlContains": "dyson-v15",
+    "aliases": [
+      "Dyson V15 Detect cordless vacuum",
+      "Dyson V15 Detect"
+    ],
+    "notes": "Use ASIN when available; marketplace seller and AU warranty still need final checkout-page confirmation."
+  }
+]

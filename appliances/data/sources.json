@@ -1,0 +1,34 @@
+[
+  {
+    "retailer": "JB Hi-Fi",
+    "status": "manual",
+    "method": "Manual CSV",
+    "refreshCadence": "On demand",
+    "adapter": "adapters/jbhifi-feed.mjs",
+    "nextStep": "Replace manual rows with approved product feed or affiliate export."
+  },
+  {
+    "retailer": "Harvey Norman",
+    "status": "manual",
+    "method": "Manual CSV",
+    "refreshCadence": "On demand",
+    "adapter": "adapters/harvey-norman-feed.mjs",
+    "nextStep": "Map official/affiliate export columns to productId, price, stock, and productUrl."
+  },
+  {
+    "retailer": "The Good Guys",
+    "status": "manual",
+    "method": "Manual CSV",
+    "refreshCadence": "On demand",
+    "adapter": "adapters/the-good-guys-feed.mjs",
+    "nextStep": "Use feed data where available; keep price match notes as manual annotations."
+  },
+  {
+    "retailer": "Amazon AU",
+    "status": "api-ready",
+    "method": "Amazon Product Advertising API placeholder",
+    "refreshCadence": "15-60 minutes after credentials are configured",
+    "adapter": "adapters/amazon-paapi.mjs",
+    "nextStep": "Configure PAAPI credentials and ASIN mapping before live calls."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "retailer": "JB Hi-Fi",
+    "standardShipping": 0,
+    "bulkyShipping": 59,
+    "pickup": 0,
+    "freeShippingOver": 100,
+    "notes": "Sample rule. Confirm final delivery fee at checkout."
+  },
+  {
+    "retailer": "Harvey Norman",
+    "standardShipping": 9,
+    "bulkyShipping": 79,
+    "pickup": 0,
+    "freeShippingOver": null,
+    "notes": "Sample rule. Fees can vary by store, postcode, and appliance size."
+  },
+  {
+    "retailer": "The Good Guys",
+    "standardShipping": 8,
+    "bulkyShipping": 69,
+    "pickup": 0,
+    "freeShippingOver": null,
+    "notes": "Sample rule. Confirm delivery or pickup before purchase."
+  },
+  {
+    "retailer": "Amazon AU",
+    "standardShipping": 0,
+    "bulkyShipping": 0,
+    "pickup": null,
+    "freeShippingOver": 59,
+    "notes": "Sample rule. Marketplace sellers may differ."
+  }
+]

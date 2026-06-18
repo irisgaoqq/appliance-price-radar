@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1781678843529-0",
+    "type": "target-met",
+    "createdAt": "2026-06-17T06:47:23.529Z",
+    "source": "adapter-refresh",
+    "productId": "dyson-v15-detect",
+    "model": "Dyson V15 Detect cordless vacuum",
+    "retailer": "JB Hi-Fi",
+    "price": 1175,
+    "targetPrice": 1200,
+    "message": "Dyson V15 Detect cordless vacuum is at or below target: JB Hi-Fi 1175"
+  },
+  {
+    "id": "1781678843529-1",
+    "type": "target-met",
+    "createdAt": "2026-06-17T06:47:23.529Z",
+    "source": "adapter-refresh",
+    "productId": "breville-barista-express",
+    "model": "Breville Barista Express espresso machine",
+    "retailer": "The Good Guys",
+    "price": 645,
+    "targetPrice": 650,
+    "message": "Breville Barista Express espresso machine is at or below target: The Good Guys 645"
+  },
+  {
+    "id": "1781678843529-2",
+    "type": "target-met",
+    "createdAt": "2026-06-17T06:47:23.529Z",
+    "source": "adapter-refresh",
+    "productId": "ninja-dual-zone-air-fryer",
+    "model": "Ninja Foodi Dual Zone air fryer",
+    "retailer": "Amazon AU",
+    "price": 279,
+    "targetPrice": 280,
+    "message": "Ninja Foodi Dual Zone air fryer is at or below target: Amazon AU 279"
+  },
+  {
+    "id": "1781678843529-3",
+    "type": "target-met",
+    "createdAt": "2026-06-17T06:47:23.529Z",
+    "source": "adapter-refresh",
+    "productId": "lg-c4-55-oled",
+    "model": "LG C4 55 inch OLED TV",
+    "retailer": "The Good Guys",
+    "price": 2188,
+    "targetPrice": 2200,
+    "message": "LG C4 55 inch OLED TV is at or below target: The Good Guys 2188"
+  },
+  {
+    "id": "1781678843529-4",
+    "type": "target-met",
+    "createdAt": "2026-06-17T06:47:23.529Z",
+    "source": "adapter-refresh",
+    "productId": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+    "model": "Samsung Bespoke Jet AI cordless vacuum",
+    "retailer": "The Good Guys",
+    "price": 875,
+    "targetPrice": 900,
+    "message": "Samsung Bespoke Jet AI cordless vacuum is at or below target: The Good Guys 875"
+  }
+]

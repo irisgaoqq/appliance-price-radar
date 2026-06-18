@@ -1,0 +1,14 @@
+[
+  {
+    "productId": "dyson-v15-detect",
+    "asin": "B0DYSONV15AU",
+    "title": "Dyson V15 Detect cordless vacuum",
+    "notes": "Demo ASIN mapping. Replace with real Amazon AU ASIN before live PA-API use."
+  },
+  {
+    "productId": "lg-c4-55-oled",
+    "asin": "B0LGC455OLED",
+    "title": "LG C4 55 inch OLED TV",
+    "notes": "Demo ASIN mapping. Confirm exact screen size and model-year suffix."
+  }
+]

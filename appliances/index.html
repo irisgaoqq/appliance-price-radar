@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>澳洲电器比价雷达 | Appliance Price Radar</title>
+  <meta name="description" content="Compare the same appliance model across JB Hi-Fi, Harvey Norman, The Good Guys, and Amazon Australia.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230f766e'/%3E%3Ctext x='32' y='38' text-anchor='middle' font-family='Arial' font-size='20' font-weight='700' fill='white'%3EAPR%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html" aria-label="Appliance Price Radar">
+      <span class="brand-mark">APR</span>
+      <span>Appliance Price Radar</span>
+    </a>
+    <nav class="nav" aria-label="Main navigation">
+      <a href="#compare">价格对比</a>
+      <a href="#workflow">实时方案</a>
+      <a href="#deploy">上线部署</a>
+      <a href="../index.html">返回首页</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="app-shell">
+      <div class="command-panel">
+        <div class="intro">
+          <h1>同款澳洲电器，先看真实到手价再下单。</h1>
+          <p>覆盖 JB Hi-Fi、Harvey Norman、The Good Guys 和 Amazon AU。输入型号或品类，快速比较最低价、到手价、库存、价格新鲜度和购买建议。</p>
+        </div>
+
+        <form class="search-panel" role="search" aria-label="Search products" onsubmit="return false;">
+          <label for="searchInput">搜索型号、品牌或品类</label>
+          <div class="search-row">
+            <input id="searchInput" type="search" placeholder="例如 Dyson V15、Breville、OLED TV">
+            <button id="clearSearch" type="button" aria-label="Clear search">清除</button>
+          </div>
+        </form>
+
+        <div class="quick-tools" aria-label="Quick shopping tools">
+          <div>
+            <span>购物现场工具</span>
+            <strong>复制当前筛选链接，或把两个书签脚本保存到浏览器书签栏：一个用于打开比价页，一个用于采集当前商品页价格。</strong>
+          </div>
+          <button id="copySearchLink" type="button">复制搜索链接</button>
+          <a id="bookmarkletLink" href="#">比价书签</a>
+          <a id="captureBookmarkletLink" href="#">采集价格</a>
+        </div>
+
+        <form id="addProductForm" class="tracker-panel" aria-label="Add tracked product">
+          <div>
+            <span>新增追踪型号</span>
+            <strong>先建立一个商品档案，再去四家网站用“采集价格”补全实时价格。</strong>
+          </div>
+          <div class="tracker-grid">
+            <label>
+              品牌
+              <input name="brand" type="text" placeholder="Dyson">
+            </label>
+            <label>
+              型号 / 产品名
+              <input name="model" type="text" required placeholder="Dyson V15 Detect Absolute">
+            </label>
+            <label>
+              品类
+              <select name="category">
+                <option value="Vacuum">吸尘器</option>
+                <option value="Coffee">咖啡机</option>
+                <option value="Kitchen">厨房电器</option>
+                <option value="TV">电视</option>
+              </select>
+            </label>
+            <label>
+              目标价
+              <input name="targetPrice" type="number" min="1" step="1" placeholder="999">
+            </label>
+          </div>
+          <label>
+            同款核对备注
+            <textarea name="specs" rows="2" placeholder="容量、颜色、型号后缀、配件、保修等"></textarea>
+          </label>
+          <div class="tracker-actions">
+            <button type="submit">新增追踪</button>
+            <span id="addProductStatus" class="feed-status" aria-live="polite"></span>
+          </div>
+        </form>
+
+        <form id="feedImportForm" class="tracker-panel feed-import-panel" aria-label="Import merchant feed">
+          <div>
+            <span>导入商家 Feed</span>
+            <strong>导入 retailer/title/price/url CSV。能自动匹配的价格会更新，不确定的会进入待匹配队列。</strong>
+          </div>
+          <label>
+            CSV 路径
+            <input name="csvPath" type="text" value="appliances/feeds/merchant-feed-sample.csv" placeholder="appliances/feeds/my-affiliate-feed.csv">
+          </label>
+          <label>
+            Feed 文件夹
+            <input name="directoryPath" type="text" value="appliances/feeds/retailer-feeds" placeholder="appliances/feeds/retailer-feeds">
+          </label>
+          <div class="tracker-actions">
+            <button type="submit">导入 Feed</button>
+            <button id="batchFeedImport" type="button">导入文件夹</button>
+            <span id="feedImportStatus" class="feed-status" aria-live="polite"></span>
+          </div>
+        </form>
+
+        <div class="controls" aria-label="Filters">
+          <button class="filter is-active" data-category="all" type="button">全部</button>
+          <button class="filter" data-category="Vacuum" type="button">吸尘器</button>
+          <button class="filter" data-category="Coffee" type="button">咖啡机</button>
+          <button class="filter" data-category="Kitchen" type="button">厨房电器</button>
+          <button class="filter" data-category="TV" type="button">电视</button>
+          <button id="refreshPrices" class="refresh-button" type="button">刷新价格</button>
+          <button id="refreshAdapters" type="button">刷新 Adapter</button>
+          <button id="autoRefreshToggle" type="button">自动刷新关</button>
+        </div>
+        <p id="feedStatus" class="feed-status">正在读取价格数据...</p>
+        <p id="autoRefreshStatus" class="feed-status">自动刷新未开启</p>
+        <form id="postcodeForm" class="postcode-form" aria-label="Delivery postcode">
+          <label>
+            配送邮编
+            <input id="postcodeInput" name="postcode" type="text" inputmode="numeric" maxlength="4" placeholder="4000">
+          </label>
+          <button type="submit">更新到手价</button>
+          <span id="postcodeStatus" class="feed-status" aria-live="polite"></span>
+        </form>
+      </div>
+
+      <aside class="decision-panel" aria-label="Best deal summary">
+        <span class="panel-label">当前最低可见到手价</span>
+        <strong id="heroBest">Loading...</strong>
+        <dl>
+          <div><dt>覆盖商家</dt><dd>4</dd></div>
+          <div><dt>型号数量</dt><dd id="modelCount">0</dd></div>
+          <div><dt>最大价差</dt><dd id="largestSpread">$0</dd></div>
+        </dl>
+        <button id="sortSavings" type="button">按价差排序</button>
+      </aside>
+    </section>
+
+    <section id="compare" class="compare-wrap">
+      <div class="section-heading">
+        <div>
+          <h2>同款型号横向对比</h2>
+          <p>每张商品卡都按同一型号整理四家商家的价格、到手价、库存、历史价格、价格新鲜度和购买建议。正式上线后可接入授权 feed、联盟 feed 或合规 API 定时更新。</p>
+        </div>
+        <div class="freshness">
+          <span>数据状态</span>
+          <strong id="feedSource">Demo feed</strong>
+        </div>
+      </div>
+      <div id="sourceStrip" class="source-strip" aria-label="Retailer data sources"></div>
+      <div id="opportunityPanel" class="opportunity-panel" aria-label="Buy opportunity summary"></div>
+      <div id="alertPanel" class="alert-panel" aria-label="Price alerts" aria-live="polite"></div>
+      <div id="captureQueue" class="capture-queue" aria-live="polite"></div>
+      <div id="productGrid" class="product-grid" aria-live="polite"></div>
+    </section>
+
+    <section id="workflow" class="workflow">
+      <div>
+        <h2>要做到真正实时，建议这样落地</h2>
+        <p>前端不能稳定直接抓取零售网站实时价格，因为会遇到 CORS、反爬、动态渲染和条款限制。更稳的产品形态是：网站负责展示和决策，后端每 15-60 分钟通过授权 feed、联盟 feed、Amazon PA-API 或合规采集更新一次价格。</p>
+      </div>
+      <ol class="workflow-list">
+        <li><strong>第一阶段</strong><span>人工维护 20-50 个常买型号，验证你自己购物时是否真的省钱。</span></li>
+        <li><strong>第二阶段</strong><span>接入 Amazon Product Advertising API 和零售商 / 联盟产品 feed。</span></li>
+        <li><strong>第三阶段</strong><span>加入价格提醒、历史曲线、浏览器采集入口和自动刷新任务。</span></li>
+      </ol>
+      <div class="retailer-links" aria-label="Retailer links">
+        <a href="https://www.jbhifi.com.au/" target="_blank" rel="noopener">JB Hi-Fi</a>
+        <a href="https://www.harveynorman.com.au/" target="_blank" rel="noopener">Harvey Norman</a>
+        <a href="https://www.thegoodguys.com.au/" target="_blank" rel="noopener">The Good Guys</a>
+        <a href="https://www.amazon.com.au/" target="_blank" rel="noopener">Amazon AU</a>
+      </div>
+    </section>
+
+    <section id="deploy" class="deploy-section">
+      <div class="section-heading">
+        <div>
+          <h2>上线部署状态</h2>
+          <p>项目已补好 Render 所需的启动配置。把本文件夹推到 GitHub 后，可以在 Render Dashboard 直接读取 render.yaml 部署。</p>
+        </div>
+      </div>
+      <div class="deploy-grid">
+        <article>
+          <strong>已准备</strong>
+          <span>Node 启动脚本、Render Blueprint、API 服务入口、静态前端页面。</span>
+        </article>
+        <article>
+          <strong>还需要你授权</strong>
+          <span>GitHub/GitLab/Bitbucket 远程仓库，以及 Render 账号连接仓库。</span>
+        </article>
+        <article>
+          <strong>正式实时价格</strong>
+          <span>需要 Amazon PA-API 凭证、零售商 feed 或合规采集任务。当前可用 sample feed 和手动采集。</span>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>价格、库存、配送、优惠和返现会随时变化。购买前请以零售商页面最终显示为准。</p>
+  </footer>
+
+  <script src="data/products.js?v=1"></script>
+  <script src="data/watchlist.js?v=1"></script>
+  <script src="site-clean.js?v=1"></script>
+</body>
+</html>

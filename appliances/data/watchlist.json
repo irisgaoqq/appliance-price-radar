@@ -1,0 +1,31 @@
+[
+  {
+    "productId": "dyson-v15-detect",
+    "targetPrice": 1200,
+    "priority": "Ready to buy",
+    "note": "Buy if The Good Guys or Amazon AU drops below target."
+  },
+  {
+    "productId": "breville-barista-express",
+    "targetPrice": 650,
+    "priority": "Gift watch",
+    "note": "Good buy around $650 if local pickup is available."
+  },
+  {
+    "productId": "ninja-dual-zone-air-fryer",
+    "targetPrice": 280,
+    "priority": "Ready to buy",
+    "note": "At target when Amazon AU is reputable or The Good Guys can price match."
+  },
+  {
+    "productId": "lg-c4-55-oled",
+    "targetPrice": 2200,
+    "priority": "Wait for sale",
+    "note": "Worth buying below $2200, confirm exact C4 model and delivery."
+  },
+  {
+    "productId": "samsung-samsung-bespoke-jet-ai-cordless-vacuum",
+    "targetPrice": 900,
+    "note": "Updated from product card"
+  }
+]
